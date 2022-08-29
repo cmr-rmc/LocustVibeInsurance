@@ -1,0 +1,9 @@
+This application uses Entity Framework by creating a database (LocustVibeInsurance) with sample data.
+
+Technologies used:
+  - .NET Core
+  - Entity Framework
+  - SQL Server
+  - Bootstrap
+  - CSS
+  - HTML
